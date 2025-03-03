@@ -6,6 +6,10 @@
         float: left;
         margin-right: 10px;
     }
+
+    .social-networks .btn{
+        width: 20%;
+    }
 }
 
 @media screen and (min-width: 768px){
