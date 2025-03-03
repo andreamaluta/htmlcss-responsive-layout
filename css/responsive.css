@@ -3,7 +3,6 @@
 @media screen and (min-width: 768px){
     #topbar{
         justify-content: flex-start;
-
     }
 
     main{
@@ -34,5 +33,13 @@
     .ads{
         display: block;
     }
+
+    .presentation img{
+        display: inline-block;
+        float: left;
+        margin-right: 10px;
+    }
+
+
 
 }
