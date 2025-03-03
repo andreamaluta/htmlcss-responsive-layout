@@ -14,4 +14,8 @@
         display: inline;
     }
 
+    .recipe-title .recipe-name{
+        font-size: 30px;
+    }
+
 }
