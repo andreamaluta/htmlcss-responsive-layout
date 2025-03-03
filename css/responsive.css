@@ -39,7 +39,12 @@
         float: left;
         margin-right: 10px;
     }
+}
 
+@media screen and (min-width: 992px){
 
+    .recipe-title .recipe-name{
+        font-size: 35px;
+    }
 
 }
