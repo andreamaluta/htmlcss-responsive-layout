@@ -71,4 +71,22 @@
         display: inline-block;
     }
 
+    footer{
+        display: flex;
+        justify-content: space-between;
+    }
+
+    address{
+        text-align: initial;
+    }
+
+    footer nav{
+        text-align: end;
+    }
+    
+
+   
+
+    
+
 }
