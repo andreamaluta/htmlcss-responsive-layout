@@ -27,4 +27,8 @@
         width: calc(100% / 3);
     }
 
+    .social-networks .btn{
+        width: 20%;
+    }
+
 }
